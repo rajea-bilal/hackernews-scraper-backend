@@ -1,5 +1,5 @@
 
-![Backend server](./backend/images/backend-server.png)
+![Backend server](./images/backend-server.png)
 
 
 # Backend features
@@ -84,7 +84,7 @@ export const csvWriter = createObjectCsvWriter({
 ***
 # Frontend Features
 
-![React app interface](./backend/images/app-interface.png)
+![React app interface](./images/app-interface.png)
 
 The frontend is built with React, offering a modern and interactive user interface for displaying Hacker News articles. Key features include:
 
@@ -109,10 +109,10 @@ The frontend is built with React, offering a modern and interactive user interfa
   - These visual cues ensure users are always informed about the current state of data fetching and any potential issues.
 
 ***loading-state***
-![loading state user feedback](./backend/images/loading-state.png)
+![loading state user feedback](./images/loading-state.png)
 
 ***error-state***
-![error state user feedback](./backend/images/error-state.png)
+![error state user feedback](./images/error-state.png)
 
 ## Adding integration tests to test the React App as a whole
 
